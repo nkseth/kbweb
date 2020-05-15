@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kbweb/static/css/main.715238d4.chunk.css",
+    "main.css": "/kbweb/static/css/main.4783bef7.chunk.css",
     "main.js": "/kbweb/static/js/main.355e78a5.chunk.js",
     "main.js.map": "/kbweb/static/js/main.355e78a5.chunk.js.map",
     "runtime-main.js": "/kbweb/static/js/runtime-main.24e13a9b.js",
@@ -9,10 +9,10 @@
     "static/js/2.19193bb0.chunk.js": "/kbweb/static/js/2.19193bb0.chunk.js",
     "static/js/2.19193bb0.chunk.js.map": "/kbweb/static/js/2.19193bb0.chunk.js.map",
     "index.html": "/kbweb/index.html",
-    "precache-manifest.be5ed17524d02569cd77c7e620de30c1.js": "/kbweb/precache-manifest.be5ed17524d02569cd77c7e620de30c1.js",
+    "precache-manifest.0b14c8339a8dac8eb2dfeaeddfd9f986.js": "/kbweb/precache-manifest.0b14c8339a8dac8eb2dfeaeddfd9f986.js",
     "service-worker.js": "/kbweb/service-worker.js",
     "static/css/2.8327a0ae.chunk.css.map": "/kbweb/static/css/2.8327a0ae.chunk.css.map",
-    "static/css/main.715238d4.chunk.css.map": "/kbweb/static/css/main.715238d4.chunk.css.map",
+    "static/css/main.4783bef7.chunk.css.map": "/kbweb/static/css/main.4783bef7.chunk.css.map",
     "static/js/2.19193bb0.chunk.js.LICENSE.txt": "/kbweb/static/js/2.19193bb0.chunk.js.LICENSE.txt",
     "static/media/f1.jpg": "/kbweb/static/media/f1.a1f84c90.jpg",
     "static/media/ppk.jpg": "/kbweb/static/media/ppk.caf9a690.jpg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.24e13a9b.js",
     "static/css/2.8327a0ae.chunk.css",
     "static/js/2.19193bb0.chunk.js",
-    "static/css/main.715238d4.chunk.css",
+    "static/css/main.4783bef7.chunk.css",
     "static/js/main.355e78a5.chunk.js"
   ]
 }
